@@ -1,0 +1,15 @@
+[
+  {
+    "file": "./main.cpp",
+    "arguments": [
+      "g++",
+      "./main.cpp",
+      "-I../Engine/",
+      "-I/opt/homebrew/include",
+      "-o",
+      "sandbox"
+    ],
+    "directory": "/Users/trenttuedon/Development/projects/hearthEngine/Sandbox",
+    "output": "sandbox"
+  }
+]
